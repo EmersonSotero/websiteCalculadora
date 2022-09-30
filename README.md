@@ -1,6 +1,7 @@
 # websiteCalculadora
 
-[Clique aqui para acessar](htpps://emersonsotero.github.io/websiteCalculadora)
+<a href="emersonsotero.github.io/websiteCalculadora" target="_blank">Clique aqui para acessar</a>
+
 
 ### Descrição
 -Calculadora que faz as quatro operações básicas.
